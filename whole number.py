@@ -52,11 +52,3 @@ s = str(num)
 # num1 = -6      # унарный минус     <------------ !!!!!!!!!!!!!!!!
 # num2 = 17 - 7  # бинарный минус
 
-
-num = int(input())
-num2 = num * 2
-num3 = num * 3
-num4 = num * 4
-num5 = num * 5
-
-print(num, num2, num3, num4, num5, sep='---')
