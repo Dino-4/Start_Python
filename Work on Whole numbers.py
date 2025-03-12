@@ -138,6 +138,3 @@ digit2 = (num1 // 10) % 10
 digit1 = num1 // 100
 
 print(digit1, digit2, digit3, sep=',')
-
-
-
