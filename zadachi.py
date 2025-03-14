@@ -61,15 +61,50 @@
     #print(n1)
 
 
-n1, n2, n3, n4 = int(input()), int(input()), int(input()), int(input())
+#n1, n2, n3, n4 = int(input()), int(input()), int(input()), int(input())
+#min = n1
 
-if n1
+#if n2 < min:
+   # min = n2
+#if n3 < min:
+  #  min = n3
+#if n4 < min:
+ #   min = n4
+
+#print(min)
 
 
 
 
 
+#age = int(input())
 
+#if age <= 13:
+   # print('детсво')
+#if 14 <= age <= 24:
+  #  print("молодость")
+#if 25 <= age <= 59:
+ #   print('зрелость')
+#if age >= 60:
+  #  print('старость')
+
+
+n1 = int(input())
+n2 = int(input())
+n3 = int(input())
+min = 0
+p_n1 = 0
+p_n2 = 0
+p_n3 = 0
+
+if n1 >  min:
+    p_n1 = n1
+if n2 > min:
+    p_n2 = n2
+if n3 > min:
+    p_n3 = n3
+
+print(p_n1 + p_n2 + p_n3)
 
 
 
