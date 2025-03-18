@@ -105,9 +105,9 @@ num = 754
 a = num % 10
 b = (num % 100) // 10
 c = num // 100
-print(a)
-print(b)
-print(c)
+print(a) # 4
+print(b) # 5
+print(c) # 7
 print('\n\n\n')
 
 
